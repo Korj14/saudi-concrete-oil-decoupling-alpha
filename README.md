@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org)](https://doi.org/10.5281/zenodo.23403832)
+
 # The Concrete Decoupling: Vision 2030 & The Saudi Construction Sector
 
 ![Oil vs Cement Indices Comparison](visuals/phase2_static_trend_perfected.png)
